@@ -1,1 +1,2 @@
-My student projects in HTML, CSS and JavaScript
+# My student projects in HTML, CSS and JavaScript
+👩‍🔧Resume site
