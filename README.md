@@ -3,4 +3,4 @@
 Одностраничный шаблон резюме, созданный с помощью HTML/CSS.
 My student projects in HTML, CSS
 ### Screenshot
-file:///home/inoor/Pictures/Screenshots/my_resume.png
+![alt-текст]("https://github.com/aynurakhmetov/resume_template/blob/master/my_resume/img/my_resume._screenshot.png screenshot")
